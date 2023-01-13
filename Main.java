@@ -5,7 +5,7 @@ public class Main {
 
 
 
-    //Function to calculate an employee
+    //Function to calculate an employee salary annually.
     public static double salaryCalculator(double hourPerweek, double amountPerHour, int vacationDays){
 
         if (hourPerweek < 0){
